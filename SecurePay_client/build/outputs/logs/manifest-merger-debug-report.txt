@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\5963991aa3a902dc7770b83e6bcaab90\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\464bc252a1802efe7060b8ca088fa07a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\5526737367fc8047997d9502cee436e1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\e78bbdda0d0d725840255afbe6feab18\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4cc53a5125b380b0458737010db6a0ad\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\f88f41213f0ed13060d4920b0aa2260d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\7efd5b96cf1c7049a02e2da7c209e031\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\aafe452e1906c7e00697195147dc1a0d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\dc1c5bc989364761d3f3ca3101acd4cf\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e710d4bbca1f466ebd9cb1a90ea200e4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\10880a282abf8f367afa85d5b45019bb\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:1-55:12
+	package
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:2:5-45
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:4:5-30
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:3:5-28
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+uses-sdk
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:6:5-8:40
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:6:5-8:40
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:6:5-8:40
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:7:5-9:41
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\5963991aa3a902dc7770b83e6bcaab90\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\5963991aa3a902dc7770b83e6bcaab90\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\464bc252a1802efe7060b8ca088fa07a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\464bc252a1802efe7060b8ca088fa07a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\5526737367fc8047997d9502cee436e1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\5526737367fc8047997d9502cee436e1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\e78bbdda0d0d725840255afbe6feab18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\e78bbdda0d0d725840255afbe6feab18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4cc53a5125b380b0458737010db6a0ad\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4cc53a5125b380b0458737010db6a0ad\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\f88f41213f0ed13060d4920b0aa2260d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\f88f41213f0ed13060d4920b0aa2260d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\7efd5b96cf1c7049a02e2da7c209e031\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\7efd5b96cf1c7049a02e2da7c209e031\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\aafe452e1906c7e00697195147dc1a0d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\aafe452e1906c7e00697195147dc1a0d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\dc1c5bc989364761d3f3ca3101acd4cf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\dc1c5bc989364761d3f3ca3101acd4cf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e710d4bbca1f466ebd9cb1a90ea200e4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e710d4bbca1f466ebd9cb1a90ea200e4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\10880a282abf8f367afa85d5b45019bb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\10880a282abf8f367afa85d5b45019bb\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:6:5-8:40
+INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:6:5-8:40
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\464bc252a1802efe7060b8ca088fa07a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:8:9-37
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:7:9-34
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+		INJECTED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:10:5-67
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:11:5-67
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:11:5-79
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:12:5-79
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:12:5-75
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:13:5-75
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:13:5-81
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:14:5-81
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:14:5-76
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:15:5-76
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:15:5-70
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:19:5-70
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:15:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:18:22-76
+application
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:20:5-53:19
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:28:5-43:19
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\5963991aa3a902dc7770b83e6bcaab90\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\5963991aa3a902dc7770b83e6bcaab90\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\464bc252a1802efe7060b8ca088fa07a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\464bc252a1802efe7060b8ca088fa07a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\5526737367fc8047997d9502cee436e1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\5526737367fc8047997d9502cee436e1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\e78bbdda0d0d725840255afbe6feab18\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\e78bbdda0d0d725840255afbe6feab18\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4cc53a5125b380b0458737010db6a0ad\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4cc53a5125b380b0458737010db6a0ad\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\7efd5b96cf1c7049a02e2da7c209e031\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\7efd5b96cf1c7049a02e2da7c209e031\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\aafe452e1906c7e00697195147dc1a0d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\aafe452e1906c7e00697195147dc1a0d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\dc1c5bc989364761d3f3ca3101acd4cf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\dc1c5bc989364761d3f3ca3101acd4cf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e710d4bbca1f466ebd9cb1a90ea200e4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e710d4bbca1f466ebd9cb1a90ea200e4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\10880a282abf8f367afa85d5b45019bb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\10880a282abf8f367afa85d5b45019bb\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:23:9-47
+	android:persistent
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:24:9-34
+	android:icon
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:25:9-40
+activity#com.yintong.activity.StandActivity
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:26:9-37:20
+	android:screenOrientation
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:29:13-49
+	android:windowSoftInputMode
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:28:13-48
+	android:theme
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:30:13-60
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:27:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:35:27-74
+activity#com.yintong.secure.activity.BaseActivity
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:40:9-46:20
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:31:9-37:20
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:31:9-37:20
+	android:screenOrientation
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:43:13-49
+	android:windowSoftInputMode
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:45:13-55
+	android:configChanges
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:42:13-63
+	android:theme
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:44:13-72
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:41:13-68
+service#com.yintong.secure.service.PayService
+ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:48:9-51:19
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:39:9-42:19
+MERGED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:39:9-42:19
+	android:exported
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from D:\workspace\LLSecurePayDemo\SecurePay_client\AndroidManifest.xml:49:13-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:18:22-70
+supports-screens
+ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:21:5-26:39
+	android:largeScreens
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:23:9-36
+	android:smallScreens
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:26:9-36
+	android:normalScreens
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:24:9-37
+	android:resizeable
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:25:9-34
+	android:anyDensity
+		ADDED from [:securePay-V3.1.0_20170607:] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\securePay-V3.1.0_20170607.aar\8d73a9d71d8c2886c8ad8f1d625963e4\AndroidManifest.xml:22:9-34

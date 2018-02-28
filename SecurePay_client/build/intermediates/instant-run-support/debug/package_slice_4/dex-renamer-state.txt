@@ -1,0 +1,4 @@
+#Wed Feb 28 17:02:10 CST 2018
+base.0=D\:\\workspace\\LLSecurePayDemo\\SecurePay_client\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+renamed.0=classes.dex
+file.0=D\:\\workspace\\LLSecurePayDemo\\SecurePay_client\\build\\intermediates\\transforms\\dexMerger\\debug\\4\\classes.dex
